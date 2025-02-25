@@ -5,7 +5,7 @@ import os
 # Define the local download directory
 DOWNLOAD_DIR = "/path/2ur/Image models/"
 
-st.title("🕵️‍♀️ M42 -  AI 🤗 Model Downloader 📥 ")
+st.title("🕵️‍♀️ M42 -  AI 🤗 Moader 📥 ")
 
 # Input for Hugging Face token (if needed for private models)
 hf_token = st.text_input("🔑 Hugging Face Token (Required for private models)", type="password")
